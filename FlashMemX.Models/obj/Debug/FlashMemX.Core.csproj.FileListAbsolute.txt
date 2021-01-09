@@ -1,0 +1,72 @@
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\PowerCollections.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\PowerCollections.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.dll.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csproj.CopyComplete
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csprojAssemblyReference.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\PowerCollections.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\PowerCollections.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csproj.CopyComplete
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csprojAssemblyReference.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.dll.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Buffers.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Memory.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Buffers.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Memory.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.dll.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Buffers.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Memory.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Buffers.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Memory.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.dll.config
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Core.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\PowerCollections.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Buffers.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Memory.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Numerics.Vectors.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\NodaTime.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\PowerCollections.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Buffers.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Data.SQLite.dll.config
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Memory.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Numerics.Vectors.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csprojAssemblyReference.cache
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csproj.CopyComplete
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Core.csproj.CoreCompileInputs.cache

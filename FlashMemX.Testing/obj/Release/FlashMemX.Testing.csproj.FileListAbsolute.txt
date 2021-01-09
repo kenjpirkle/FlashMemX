@@ -1,0 +1,32 @@
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Testing.exe.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Testing.exe
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Testing.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Core.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\System.Data.SQLite.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\NodaTime.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Core.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\System.Data.SQLite.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\System.Data.SQLite.dll.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\NodaTime.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Release\NodaTime.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\obj\Release\FlashMemX.Testing.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\obj\Release\FlashMemX.Testing.csproj.CopyComplete
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\obj\Release\FlashMemX.Testing.exe
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\obj\Release\FlashMemX.Testing.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Testing.exe.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Testing.exe
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Testing.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Core.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\System.Data.SQLite.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\NodaTime.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\PowerCollections.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\FlashMemX.Core.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\System.Data.SQLite.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\System.Data.SQLite.dll.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\NodaTime.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\NodaTime.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Release\PowerCollections.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Release\FlashMemX.Testing.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Release\FlashMemX.Testing.csproj.CopyComplete
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Release\FlashMemX.Testing.exe
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Release\FlashMemX.Testing.pdb

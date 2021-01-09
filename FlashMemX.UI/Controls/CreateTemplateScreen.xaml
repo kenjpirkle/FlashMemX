@@ -1,0 +1,121 @@
+﻿<UserControl x:Class="FlashMemX.UI.CreateTemplateScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="80" />
+        </Grid.RowDefinitions>
+
+        <StackPanel>
+
+            <Grid Margin="100 30 100 10"
+                HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="25"/>
+                    <ColumnDefinition Width="150"/>
+                </Grid.ColumnDefinitions>
+
+                <Label HorizontalAlignment="Center">
+                    Name:
+                </Label>
+
+                <TextBox x:Name="TemplateName"
+                        HorizontalContentAlignment="Center"
+                        Grid.Column="2">
+
+                </TextBox>
+
+            </Grid>
+
+            <Separator Margin="75 10 75 10" 
+                Background="{StaticResource MaterialDesignDivider}">
+
+            </Separator>
+            
+        </StackPanel>
+
+        <Grid Grid.Row="1">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto"
+                        Grid.Column="0">
+
+                <StackPanel x:Name="FieldStackPanel"
+                        Margin="20 0 20 0">
+
+                </StackPanel>
+
+            </ScrollViewer>
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto"
+                        HorizontalScrollBarVisibility="Auto"
+                        Grid.Column="1">
+
+                <StackPanel Margin="20 0 20 0">
+
+                    <Border CornerRadius="5"
+                    Padding="10"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+
+                        <ContentControl x:Name="FrontCardView"
+                                Background="Transparent"/>
+
+                        <Border.Effect>
+                            <DropShadowEffect Opacity=".5" BlurRadius="20" Color="Black" />
+                        </Border.Effect>
+
+                    </Border>
+
+                    <Border CornerRadius="5"
+                    Padding="10"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+
+                        <ContentControl x:Name="BackCardView"
+                                Background="Transparent"/>
+
+                        <Border.Effect>
+                            <DropShadowEffect Opacity=".5" BlurRadius="20" Color="Black" />
+                        </Border.Effect>
+
+                    </Border>
+
+                </StackPanel>
+
+            </ScrollViewer>
+
+        </Grid>
+
+        <Border Grid.Row="2"
+                Background="{DynamicResource MaterialDesignBackground}"
+                BorderThickness="0 1 0 0"
+                BorderBrush="{DynamicResource MaterialDesignPaper}">
+
+            <Button x:Name="SaveNewSchema"
+                        Width="150">
+                    SAVE
+            </Button>
+
+            <Border.Effect>
+                <DropShadowEffect Opacity=".3" BlurRadius="30" ShadowDepth="0" Direction="0" Color="Black"/>
+            </Border.Effect>
+
+        </Border>
+
+    </Grid>
+    
+</UserControl>

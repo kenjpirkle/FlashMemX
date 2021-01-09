@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="FlashMemX.UI.StudyScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="80" />
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="LastSeenTextBlock"
+                   Margin="10"
+                   Grid.Row="0"
+                   Panel.ZIndex="1"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center">
+            Saw 3 days ago
+        </TextBlock>
+
+        <ScrollViewer HorizontalScrollBarVisibility="Auto"
+                      VerticalScrollBarVisibility="Auto"
+                      Grid.Row="0"
+                      Grid.RowSpan="2">
+
+            <Border>
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0.5, 0.5">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="LightCyan"  Offset=".5" />
+                    </LinearGradientBrush>
+                </Border.Background>
+                
+                <Border CornerRadius="5"
+                        Padding="10"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center">
+
+                    <ContentControl x:Name="CardContentControl"
+                                    Background="Transparent"
+                                    Grid.Row="1"
+                                    Grid.RowSpan="1"/>
+
+                    <Border.Effect>
+                        <DropShadowEffect Opacity=".5" BlurRadius="20" Color="Black" />
+                    </Border.Effect>
+
+                </Border>
+
+            </Border>
+
+        </ScrollViewer>
+
+        <Border Grid.Row="2"
+                Background="{DynamicResource MaterialDesignBackground}"
+                BorderThickness="0 1 0 0"
+                BorderBrush="{DynamicResource MaterialDesignPaper}">
+
+            <ContentControl x:Name="ButtonsContentControl" />
+
+            <Border.Effect>
+                <DropShadowEffect Opacity=".3" BlurRadius="30" ShadowDepth="0" Direction="0" Color="Black"/>
+            </Border.Effect>
+            
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,28 @@
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Release\FlashMemX.Core.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Release\FlashMemX.Core.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Release\NodaTime.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Release\System.Data.SQLite.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Release\NodaTime.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Release\NodaTime.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Release\System.Data.SQLite.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Release\System.Data.SQLite.dll.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.csprojAssemblyReference.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.csproj.CopyComplete
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\FlashMemX.Core.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\FlashMemX.Core.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\NodaTime.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\PowerCollections.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\System.Data.SQLite.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\NodaTime.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\NodaTime.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\PowerCollections.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\System.Data.SQLite.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\bin\Release\System.Data.SQLite.dll.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.csprojAssemblyReference.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.csproj.CopyComplete
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Models\obj\Release\FlashMemX.Core.pdb

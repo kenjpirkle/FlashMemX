@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Models.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\bin\Debug\FlashMemX.Models.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Models.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Models.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Models\obj\Debug\FlashMemX.Models.pdb

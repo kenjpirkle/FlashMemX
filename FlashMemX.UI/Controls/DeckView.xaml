@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="FlashMemX.UI.DeckView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    
+    <StackPanel VerticalAlignment="Center"
+                HorizontalAlignment="Center">
+
+        <Rectangle Height="300"
+                   Width="210"
+                   Fill="LightSalmon"
+                   RadiusX="10"
+                   RadiusY="10"
+                   Margin="0 0 0 -20"
+                   Panel.ZIndex="2">
+            
+        </Rectangle>
+
+        <Rectangle Height="50"
+                   Width="210"
+                   Fill="AntiqueWhite"
+                   RadiusX="10"
+                   RadiusY="10"
+                   Margin="0 0 0 -40"
+                   Panel.ZIndex="1">
+
+        </Rectangle>
+
+        <Rectangle Height="50"
+                   Width="210"
+                   Fill="Black"
+                   Opacity="0.3"
+                   RadiusX="10"
+                   RadiusY="10"
+                   Panel.ZIndex="0">
+
+        </Rectangle>
+
+    </StackPanel>
+    
+</UserControl>

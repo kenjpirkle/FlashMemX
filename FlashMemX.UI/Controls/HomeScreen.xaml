@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="FlashMemX.UI.HomeScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+
+        <Button x:Name="StudyButton"
+                Height="Auto"
+                Width="140"
+                Margin="10"
+                Click="StudyButton_Click">
+            STUDY
+        </Button>
+
+        <Button x:Name="CustomStudyButton"
+                Height="Auto"
+                Width="140"
+                Margin="10">
+            CUSTOM STUDY
+        </Button>
+
+        <Button x:Name="CreateNewContentType"
+                Height="Auto"
+                Width="140"
+                Margin="10" Click="CreateNewContentType_Click">
+            <TextBlock TextWrapping="Wrap"
+                       TextAlignment="Center">
+                CREATE NEW CONTENT TYPE
+            </TextBlock>
+        </Button>
+
+        <Button x:Name="CreateNewTemplate"
+                Height="Auto"
+                Width="140"
+                Margin="10" Click="CreateNewTemplate_Click">
+            <TextBlock TextWrapping="Wrap"
+                       TextAlignment="Center">
+                CREATE NEW TEMPLATE
+            </TextBlock>
+        </Button>
+
+    </StackPanel>
+    
+</UserControl>

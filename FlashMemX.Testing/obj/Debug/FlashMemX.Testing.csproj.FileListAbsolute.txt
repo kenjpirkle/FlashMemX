@@ -1,0 +1,36 @@
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Testing.exe.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Testing.exe
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Testing.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Core.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\System.Data.SQLite.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\NodaTime.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\PowerCollections.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Core.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\System.Data.SQLite.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\NodaTime.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\NodaTime.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\bin\Debug\PowerCollections.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.csprojAssemblyReference.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.csproj.CopyComplete
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.exe
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Testing.exe.config
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Testing.exe
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Testing.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Core.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\NodaTime.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\PowerCollections.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Core.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\FlashMemX.Core.dll.config
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\System.Data.SQLite.dll.config
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\NodaTime.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\NodaTime.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\bin\Debug\PowerCollections.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.csprojAssemblyReference.cache
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.csproj.CopyComplete
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.exe
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.Testing\obj\Debug\FlashMemX.Testing.pdb

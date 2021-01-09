@@ -1,0 +1,159 @@
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.exe.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.exe
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignColors.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\PowerCollections.dll
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignColors.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.dll.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.pdb
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\PowerCollections.xml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csprojAssemblyReference.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CardView.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\FlipButtons.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HomeScreen.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HostWindow.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\LearningCardButtons.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\NewCardButtons.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\StudyScreen.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\DeckView.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CardView.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\FlipButtons.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HomeScreen.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HostWindow.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\LearningCardButtons.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\NewCardButtons.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\StudyScreen.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\DeckView.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\App.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI_MarkupCompile.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI_MarkupCompile.lref
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\App.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.g.resources
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.Properties.Resources.resources
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.GenerateResource.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.CopyComplete
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.exe
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.exe.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.exe
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\PowerCollections.dll
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\PowerCollections.xml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csprojAssemblyReference.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CardView.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\FlipButtons.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HomeScreen.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HostWindow.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\LearningCardButtons.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\NewCardButtons.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\StudyScreen.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\DeckView.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CardView.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\FlipButtons.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HomeScreen.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HostWindow.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\LearningCardButtons.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\NewCardButtons.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\StudyScreen.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\DeckView.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\App.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI_MarkupCompile.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI_MarkupCompile.lref
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\App.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.g.resources
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.Properties.Resources.resources
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.GenerateResource.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.CopyComplete
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.exe
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.pdb
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateSchemaScreen.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateSchemaScreen.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\SchemaField.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\SchemaField.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateTemplateScreen.g.cs
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateTemplateScreen.baml
+C:\Users\kenny\OneDrive\Desktop\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.dll.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.dll.config
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\SchemaField.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateSchemaScreen.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateTemplateScreen.baml
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\SchemaField.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateSchemaScreen.g.cs
+D:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateTemplateScreen.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.exe.config
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.exe
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.UI.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignColors.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\PowerCollections.dll
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\FlashMemX.Core.dll.config
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignColors.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\System.Data.SQLite.dll.config
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\NodaTime.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\bin\Debug\PowerCollections.xml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csprojAssemblyReference.cache
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CardView.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\FlipButtons.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HomeScreen.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HostWindow.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\LearningCardButtons.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\NewCardButtons.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\SchemaField.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\StudyScreen.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\DeckView.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateSchemaScreen.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateTemplateScreen.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CardView.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\FlipButtons.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HomeScreen.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\HostWindow.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\LearningCardButtons.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\NewCardButtons.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\SchemaField.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\StudyScreen.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\DeckView.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateSchemaScreen.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\Controls\CreateTemplateScreen.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\App.g.cs
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI_MarkupCompile.cache
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI_MarkupCompile.lref
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\App.baml
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.g.resources
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.Properties.Resources.resources
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.GenerateResource.cache
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.CopyComplete
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.exe
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.pdb
+E:\Programming\Visual Studio Projects\FlashMemX\FlashMemX.UI\obj\Debug\FlashMemX.UI.csproj.CoreCompileInputs.cache
